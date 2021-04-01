@@ -4,7 +4,12 @@
     padding: 0;
     font-family: Arial;
     font-size: 18px;
-    background-attachment: fixed;
+}
+.meio h1{
+    padding-left: 40%;
+}
+
+body{
     background: #1e1644;
 }
 
@@ -25,7 +30,7 @@ header{
 .top h1{
     font-size: 230%;
     padding-top: 8%;
-    margin-left: -230%;
+    margin-left: -210%;
 }
 
 header a.logo{
