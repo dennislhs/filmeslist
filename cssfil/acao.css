@@ -186,6 +186,13 @@ header nav ul li:hover{
     background: #6b0101;
 }
 
+.container ul li.princi{
+    background: #17085a;
+}
+
+.container ul li:hover{
+    background: #6b0101;
+}
 
 
 html, body{

@@ -266,6 +266,14 @@ label span:nth-child(3){
     opacity: 0;
 }
 
+.container ul li.princi{
+    background: #17085a;
+}
+
+.container ul li:hover{
+    background: #6b0101;
+}
+
 .separado a{
     display: block;
     color: blueviolet;
