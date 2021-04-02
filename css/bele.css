@@ -47,25 +47,25 @@ body{
     color: aqua;
 }
 
-.film .imagb .imgb{
+.imagb{
+    position: absolute;
     top: 26%;
     left: 55%;
-    position: absolute;
+}
+
+.film .imagb .imgb{
     border:2px solid #000;
-    max-width: 13%;
+    max-width: 29.7%;
 }
 
 .film .imagb h1{
-    top: 69%;
-    left: 54.5%;
-    position: absolute;
+    padding-top: .7%;
+    padding-left: 0%;
     color: #efff08;
 }
 
 .film .imagb p{
-    top: 75%;
-    left: 52%;
-    position: absolute;
+    padding-top: .7%;
     color: #cc1515;
     font-size: 70%;
 }
