@@ -12,6 +12,7 @@ body{
 
 .film{
     font-size: 110%;
+    position: absolute;
 }
 
 .film .imaga .imga{
