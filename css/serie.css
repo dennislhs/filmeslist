@@ -18,7 +18,7 @@
 
 .sera .imga{
     border:1px solid #000;
-    max-width: 35%;
+    max-width: 180px;
 }
 
 .sera h1{
@@ -33,17 +33,23 @@
     color: #000000;
 }
 
-.sera .dis img{
-    width: 12%;
-    border-radius: 50%;
-    padding-top: 1.5%;
-    padding-left: 1.5%;
-    padding-right: 1.5%;
+.dis img{
+    width: 100%;
+    border-radius: 100%;
+
 }
 
-.sera .dis a{
-    font-size: 110%;
-    color: #ff0000;
+.dis{
+    border: 2px solid #000000;
+    width: 12%;
+    
+}
+
+.dis .le{
+    font-size: 160%;
+    color: #921919;
+    font-size: 70%;
+    padding-left: 6%;
 }
 
 .sera p{
@@ -62,35 +68,6 @@
     color: aqua;
 }
 
-.serie .serb img{
-    top: 26%;
-    left: 55%;
-    position: absolute;
-    border:2px solid #000;
-    max-width: 13%;
-}
-
-.serie .serb h1{
-    top: 69%;
-    left: 54.5%;
-    position: absolute;
-    color: #efff08;
-}
-
-.serie .serb h3{
-    top: 72%;
-    left: 55%;
-    position: absolute;
-    color: #000;
-}
-
-.serie .serb p{
-    top: 80%;
-    left: 52%;
-    position: absolute;
-    color: #cc1515;
-    font-size: 70%;
-}
 
 body{
     background: #1e1644;

@@ -27,7 +27,7 @@ body{
 
 .imaga h1{
     padding-top: .5%;
-    padding-left: 5%;
+    padding-left: 16%;
     color: #efff08;
 }
 
@@ -54,8 +54,8 @@ body{
 }
 
 .imagb .imgb{
-    border: 1px solid #000;
-    max-width: 31%;
+    border:1px solid #000;
+    max-width: 20%;
 }
 
 .imagb h1{
