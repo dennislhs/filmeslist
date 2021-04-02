@@ -12,14 +12,13 @@ body{
 
 .film{
     font-size: 110%;
-    position: absolute;
 }
 
 .film .imaga .imga{
-    top: 26%;
+    padding-top: 5.7%;
     left: 22%;
     position: absolute;
-    border:1px solid #000;
+
     max-width: 13%;
 }
 
