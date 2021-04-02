@@ -10,29 +10,29 @@ body{
     background: #1e1644;
 }
 
+.imaga{
+    position: absolute;
+    top: 26%;
+    left: 22%;
+}
+
 .film{
     font-size: 110%;
 }
 
 .film .imaga .imga{
-    padding-top: 5.7%;
-    left: 22%;
-    position: absolute;
-
-    max-width: 13%;
+    border:1px solid #000;
+    max-width: 20%;
 }
 
 .film .imaga h1{
-    top: 69%;
-    left: 26%;
-    position: absolute;
+    padding-top: .7%;
+    padding-left: 5%;
     color: #efff08;
 }
 
 .film .imaga p{
-    top: 75%;
-    left: 20%;
-    position: absolute;
+    padding-top: .7%;
     color: #cc1515;
     font-size: 70%;
 }
