@@ -20,19 +20,19 @@ body{
     font-size: 110%;
 }
 
-.film .imaga .imga{
+.imaga .imga{
     border:1px solid #000;
     max-width: 20%;
 }
 
-.film .imaga h1{
-    padding-top: .7%;
+.imaga h1{
+    padding-top: .5%;
     padding-left: 5%;
     color: #efff08;
 }
 
-.film .imaga p{
-    padding-top: .7%;
+.imaga p{
+    padding-top: 1.5%;
     color: #cc1515;
     font-size: 70%;
 }
@@ -53,19 +53,18 @@ body{
     left: 57%;
 }
 
-.film .imagb .imgb{
-    border:1px solid #000;
-    max-width: 29.7%;
+.imagb .imgb{
+    border: 1px solid #000;
+    max-width: 31%;
 }
 
-.film .imagb h1{
-    padding-top: .7%;
-    padding-left: 0%;
+.imagb h1{
+    padding-top: .8%;
     color: #efff08;
 }
 
-.film .imagb p{
-    padding-top: .7%;
+.imagb p{
+    padding-top: 2.5%;
     color: #cc1515;
     font-size: 70%;
 }
