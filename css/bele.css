@@ -50,11 +50,11 @@ body{
 .imagb{
     position: absolute;
     top: 26%;
-    left: 55%;
+    left: 57%;
 }
 
 .film .imagb .imgb{
-    border:2px solid #000;
+    border:1px solid #000;
     max-width: 29.7%;
 }
 
