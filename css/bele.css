@@ -22,7 +22,7 @@ body{
 
 .imaga .imga{
     border:1px solid #000;
-    max-width: 20%;
+    max-width: 180px;
 }
 
 .imaga h1{
@@ -55,7 +55,7 @@ body{
 
 .imagb .imgb{
     border:1px solid #000;
-    max-width: 20%;
+    max-width: 180px;
 }
 
 .imagb h1{
