@@ -6,6 +6,10 @@
     font-size: 103%;
 }
 
+.serie{
+    font-size: 120%;
+}
+
 .sera .dis img{
     top: 79%;
     left: 22%;
@@ -14,11 +18,11 @@
     position: absolute;
 }
 
-.serie .prin{
+.serie .sera .imga{
     top: 26%;
     left: 22%;
     position: absolute;
-    border:2px solid #000;
+    border: 2px solid #000;
     max-width: 13%;
 }
 
@@ -27,7 +31,6 @@
     left: 21%;
     position: absolute;
     color: #efff08;
-    font-size: 120%;
 }
 
 .sera .dis h3{
@@ -129,8 +132,8 @@ header a.logo{
 }
 
 header a.logo img{
-    max-width: 50%;
-    border-radius: 50%
+    max-width: 60%;
+    border-radius: 100%
 }
 
 header nav{

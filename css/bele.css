@@ -10,11 +10,15 @@ body{
     background: #1e1644;
 }
 
-.film .imaga img{
+.film{
+    font-size: 110%;
+}
+
+.film .imaga .imga{
     top: 26%;
     left: 22%;
     position: absolute;
-    border:2% solid #000;
+    border:1px solid #000;
     max-width: 13%;
 }
 
@@ -43,7 +47,7 @@ body{
     color: aqua;
 }
 
-.film .imagb img{
+.film .imagb .imgb{
     top: 26%;
     left: 55%;
     position: absolute;
@@ -95,7 +99,7 @@ header a.logo{
 }
 
 header a.logo img{
-    max-width: 50%;
+    max-width: 60%;
     border-radius: 50%
 }
 
