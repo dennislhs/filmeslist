@@ -53,7 +53,7 @@
 
 .sera p{
     padding-top: 3%;
-    color: #cc1515;
+    color: #eeff00;
     font-size: 70%;
 }
 
@@ -64,7 +64,7 @@
 
 .serie a{
     font-size:120%;
-    color: aqua;
+    color: #2f00ff;
 }
 
 .serb{
@@ -109,17 +109,17 @@
 
 .serb p{
     padding-top: 3%;
-    color: #cc1515;
+    color: #eeff00;
     font-size: 70%;
 }
 
 body{
-    background: #1e1644;
+    background: #363636;
 }
 
 #full-header{
     width: 100%;
-    background: #361bb1;
+    background: #ff7300;
 }
  
 header{
@@ -128,7 +128,7 @@ header{
     margin-right: 6%;
     margin-left: auto;
     top:0px;
-    background: #361bb1;
+    background: #ff7300;
 }
 
 .top h1{
@@ -185,9 +185,17 @@ header nav ul li.princ{
 }
 
 header nav ul li:hover{
-    background: #6b0101;
+    background: #0130ff;
 }
 
+
+.container ul li.princi{
+    background: #17085a;
+}
+
+.container ul li:hover{
+    background: #0130ff;
+}
 
 
 html, body{
@@ -270,7 +278,7 @@ label span:nth-child(3){
 
 .separado a{
     display: block;
-    color: blueviolet;
+    color: #05ff11;
     margin-bottom: 9%;
     font-size: 120%;
     text-decoration: none;
