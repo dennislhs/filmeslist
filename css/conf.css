@@ -13,21 +13,21 @@
 }
 
 .jv{
-    max-width: 33%;
+
     position: absolute;
     left: 36%;
     padding-top: 7%;
 }
 
 .el{
-    max-width: 33%;
+    
     position: absolute;
-    left: 70%;
+    left: 65%;
     padding-top: 7%;
 }
 
 .den{
-    max-width: 33%;
+    
     position: absolute;
     padding-top: 7%;
     padding-left: 5%;
@@ -44,7 +44,7 @@
 }
 
 .den img{
-    max-width: 36%;
+    max-width: 25%;
     border-radius: 50%
 }
 
