@@ -97,7 +97,7 @@ header nav ul{
 }
 
 header nav ul li{
-    padding: 2%;
+    padding: 3%;
     position: relative;
     cursor: pointer;
     transition: 0.3s;
