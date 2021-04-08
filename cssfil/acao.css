@@ -429,7 +429,7 @@ body{
 
 #full-header{
     width: 100%;
-    background: #ff7300;
+    background: #ff0000;
 }
  
 header{
@@ -438,7 +438,7 @@ header{
     margin-right: 6%;
     margin-left: auto;
     top:0px;
-    background: #ff7300;
+    background: #ff0000;
 }
 
 .top h1{
@@ -479,7 +479,7 @@ header nav ul li{
 }
 
 header nav ul li a{
-    color: #efff08;
+    color: #000000;
     text-decoration: none;
 }
 
@@ -490,7 +490,7 @@ header nav ul li.menu-dropdown ul{
 }
 
 header nav ul li.princ{
-    background: #000000;
+    background: #00ff15;
 }
 
 header nav ul li:hover{
