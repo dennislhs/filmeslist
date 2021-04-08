@@ -517,7 +517,7 @@ html, body{
     padding: 1%;
 }
 
-input#checkbox-menu{
+#checkbox-menu{
     position: absolute;
     opacity: 0;
 }
@@ -554,25 +554,25 @@ label span:nth-child(3){
     
 }
 
-input#checkbox-menu:checked ~ .separado{
+#checkbox-menu:checked ~ .separado{
     opacity: 1;
 }
 
-input#checkbox-menu:checked + label span:nth-child(1){
+#checkbox-menu:checked + label span:nth-child(1){
     transform: rotate(-45deg);
     top: 8px;
 }
 
-input#checkbox-menu:checked + label span:nth-child(2){
+#checkbox-menu:checked + label span:nth-child(2){
     opacity: 0;
 }
 
-input#checkbox-menu:checked + label span:nth-child(3){
+#checkbox-menu:checked + label span:nth-child(3){
     transform: rotate(45deg);
     top: 8px;
 }
 
-input#checkbox-menu:checked + label{
+#checkbox-menu:checked + label{
     box-shadow: 0 0 0 20vw #f16234 0 0 0 100vh #f16234;
 }
 
