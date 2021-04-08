@@ -119,7 +119,7 @@ body{
 
 #full-header{
     width: 100%;
-    background: #ff7300;
+    background: #ff0000;
 }
  
 header{
@@ -128,7 +128,7 @@ header{
     margin-right: 6%;
     margin-left: auto;
     top:0px;
-    background: #ff7300;
+    background: #ff0000;
 }
 
 .top h1{
