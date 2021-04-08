@@ -170,7 +170,7 @@ header nav ul li{
 }
 
 header nav ul li a{
-    color: #00ff0d;
+    color: #000000;
     text-decoration: none;
 }
 
@@ -181,7 +181,7 @@ header nav ul li.menu-dropdown ul{
 }
 
 header nav ul li.princ{
-    background: #000000;
+    background: #00ff15;
 }
 
 header nav ul li:hover{
