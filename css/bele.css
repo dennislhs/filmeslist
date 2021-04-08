@@ -161,7 +161,7 @@ header nav ul{
 }
 
 header nav ul li{
-    padding: 3%;
+    padding: 2%;
     position: relative;
     cursor: pointer;
     transition: 0.3s;
