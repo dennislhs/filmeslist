@@ -1,0 +1,131 @@
+*{
+    margin: 0%;
+    box-sizing: border-box;
+    padding: 0;
+    font-family: Arial;
+    font-size: 103%;
+}
+
+.pri{
+    left: 35%;
+    position: absolute;
+    font-size: 200%;
+}
+
+.jv{
+    max-width: 33%;
+    position: absolute;
+    left: 36%;
+    padding-top: 7%;
+}
+
+.el{
+    max-width: 33%;
+    position: absolute;
+    left: 70%;
+    padding-top: 7%;
+}
+
+.den{
+    max-width: 33%;
+    position: absolute;
+    padding-top: 7%;
+    padding-left: 5%;
+}
+
+.el img{
+    max-width: 35%;
+    border-radius: 50%
+}
+
+.jv img{
+    max-width: 30%;
+    border-radius: 50%
+}
+
+.den img{
+    max-width: 36%;
+    border-radius: 50%
+}
+
+body{
+    background: #363636;
+}
+
+#full-header{
+    width: 100%;
+    background: #ff0000;
+}
+ 
+header{
+    display: flex;
+    width: 30%;
+    margin-right: 6%;
+    margin-left: auto;
+    top:0px;
+    background: #ff0000;
+}
+
+.top h1{
+    font-size: 200%;
+    padding-top: 12%;
+    margin-left: -270%;
+}
+
+header a.logo{
+    padding: 1.5%;
+    display: inline-flex;
+    align-items: center;
+    margin-right: 1.5%;
+    margin-left: -15%;
+}
+
+header a.logo img{
+    max-width: 90%;
+    border-radius: 50%
+}
+
+header nav{
+    display: inline-flex;
+    align-items: center;
+    margin-left: auto;
+}
+
+header nav ul{
+    list-style: none;
+    display: inline-flex;
+}
+
+header nav ul li{
+    padding: 3%;
+    position: relative;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+header nav ul li a{
+    color: #000000;
+    text-decoration: none;
+}
+
+header nav ul li.menu-dropdown ul{
+    display: none;
+    position: absolute;
+    left: 0%;
+}
+
+header nav ul li.princ{
+    background: #00ff00;
+}
+
+header nav ul li:hover{
+    background: #0130ff;
+}
+
+.container ul li.princi{
+    background: #17085a;
+}
+
+.container ul li:hover{
+    background: #0130ff;
+}
