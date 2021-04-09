@@ -590,3 +590,10 @@ label span:nth-child(3){
     font-size: 120%;
     text-decoration: none;
 }
+
+#txt{
+    padding-top: 5%;
+    padding-left: 90%;
+    position: absolute;
+    color: #fffb00;
+}

@@ -129,3 +129,10 @@ header nav ul li:hover{
 .container ul li:hover{
     background: #0130ff;
 }
+
+#txt{
+    padding-top: 5%;
+    padding-left: 90%;
+    position: absolute;
+    color: #fffb00;
+}

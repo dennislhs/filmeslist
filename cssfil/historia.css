@@ -54,7 +54,7 @@ body{
 }
 
 .dis .disa{
-    font-size: 61%;
+    font-size: 65%;
     color: #ffffff;
 }
 
@@ -91,7 +91,7 @@ body{
 
 .imagb h1{
     padding-top: .5%;
-    padding-left: 0%;
+    padding-left: 20%;
     color: #efff08;
 }
 
@@ -109,7 +109,7 @@ body{
 
 .diss{
     border: 4px solid #000000;
-    width: 16%;
+    width: 19.5%;
     padding-top: 0;
 }
 
@@ -190,7 +190,7 @@ body{
 
 .imagd h1{
     padding-top: .5%;
-    padding-left: 0%;
+    padding-left: 18%;
     color: #efff08;
 }
 
@@ -208,7 +208,7 @@ body{
 
 .dissf{
     border: 4px solid #000000;
-    width: 16%;
+    width: 20.5%;
     padding-top: 0;
 }
 
@@ -589,4 +589,11 @@ label span:nth-child(3){
     margin-bottom: 9%;
     font-size: 120%;
     text-decoration: none;
+}
+
+#txt{
+    padding-top: 5%;
+    padding-left: 90%;
+    position: absolute;
+    color: #fffb00;
 }
